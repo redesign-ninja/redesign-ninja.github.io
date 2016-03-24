@@ -1,0 +1,23 @@
+main {
+	width:100%;
+}
+
+#home_area {
+	padding-top: 10%;
+}
+
+.deco-font {
+	font-family: 'Kaushan Script', cursive;
+}
+
+.padding-15 {
+	padding:15px;
+}
+
+.padding-v-15 {
+	padding:15px 0px;
+}
+
+.padding-h-15 {
+	padding:0px 15px;
+}
